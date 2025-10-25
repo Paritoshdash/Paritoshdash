@@ -1,7 +1,3 @@
-Sure, Paritosh! Here's a concise and professional GitHub bio you can use or customize further based on your goals and projects:
-
----
-
 👋 Hi, I'm **Paritosh Dash** — a passionate tech explorer and builder, currently working on innovative IoT and AR-based solutions.<br>
 🚀 I'm the mind behind **405 FOUND**, a smart shoe project integrating real-time sensor data with AR visualization.<br>
 🌐 I'm also building a global biker trip planning platform using **Next.js**, **Node.js**, **MongoDB**, and **Google Maps API**, helping riders track dream destinations and manage trip budgets.<br>
